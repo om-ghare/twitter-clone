@@ -21,7 +21,7 @@ A **responsive** and **modern** Twitter (formerly X) UI clone built using **HTML
 ---
 
 ## Try Live demo 
-👉🏻 [Twitter-Clone](twitter-omghare.vercel.app)
+👉🏻 [Twitter-Clone](https://twitter-omghare.vercel.app)
 
 ---
 
